@@ -372,8 +372,8 @@ public class AbListViewHeader extends LinearLayout {
 	 * 设置HeaderTimeView是否可见
 	 * @param hide
 	 */
-	public void setHeaderTimeVisable(boolean visable){
-		if(visable){
+	public void setHeaderTimeVisable(boolean visible){
+		if(visible){
 			headerTimeView.setVisibility(View.GONE);
 		}else{
 			headerTimeView.setVisibility(View.VISIBLE);

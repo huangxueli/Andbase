@@ -150,7 +150,7 @@ public abstract class  CarouselAdapter <T extends Adapter> extends ViewGroup {
     int mItemCount;
 
     /**
-     * The number of items in the adapter before a data changed event occured.
+     * The number of items in the adapter before a data changed event occurred.
      */
     int mOldItemCount;
 

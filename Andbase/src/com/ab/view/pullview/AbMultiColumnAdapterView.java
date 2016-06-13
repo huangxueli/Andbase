@@ -132,7 +132,7 @@ public abstract class AbMultiColumnAdapterView<T extends Adapter> extends ViewGr
     int mItemCount;
 
     /**
-     * The number of items in the adapter before a data changed event occured.
+     * The number of items in the adapter before a data changed event occurred.
      */
     int mOldItemCount;
 
